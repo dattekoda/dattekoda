@@ -1,4 +1,4 @@
-## Hi there 👋
+[![LeetCode Status](https://leetcard.jacoblin.cool/khanadat)](https://leetcode.com/khanadat/)
 
 <!--
 **dattekoda/dattekoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
